@@ -1,3 +1,10 @@
+# My personal notes:
+
+Build Firmware will be here:
+C:\Users\meche\Ender3Pro\firmware\BIGTREETECH-SKR-mini-E3\firmware\V2.0\Marlin-2.0.7.2-SKR-mini-E3-V2.0\.pio\build\STM32F103RC_btt_512K_USB
+
+Change the CUSTOM_MACHINE_NAME in configuration.h to have today's date.  LCD mode will show this to ensure Firmware update.
+
 # BIGTREETECH SKR Mini E3 V1.x and V2.x
 
 BIGTREETECH SKR Mini E3 V1.x and V2.x mainboards are ultra-quiet, low-power, high-quality 3D printing machine controller boards from BIQU.
